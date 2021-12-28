@@ -1,0 +1,13 @@
+pyproject.toml
+setup.py
+Mp3tag/__init__.py
+Mp3tag/controller.py
+Mp3tag/model.py
+Mp3tag/mp3tag.py
+Mp3tag/view.py
+Mp3tag.egg-info/PKG-INFO
+Mp3tag.egg-info/SOURCES.txt
+Mp3tag.egg-info/dependency_links.txt
+Mp3tag.egg-info/entry_points.txt
+Mp3tag.egg-info/requires.txt
+Mp3tag.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+Mp3tag = Mp3tag.__main__:main
+
